@@ -1,0 +1,47 @@
+- NODEJS
+instalace vcetne npm
+-------------
+node -v
+
+node.js + docker
+
+
+- NPM/YARN
+----------
+
+- npm i vs npm i -g , npm i --save-dev ( https://docs.npmjs.com/cli/install.html)
+- .npmrc (npm registry), http://avignon.gmc.net:10004
+- npm init (https://docs.npmjs.com/cli/init.html)
+- semver : https://semver.org/
+- package-lock.json/yarn.lock
+- private: true
+- latest tag vs. version tag
+- upstreams
+- cache
+  - npm cache clean --force
+  c:\Users\r.sedlak\AppData\Roaming\npm-cache\
+ - npm version X.X.X
+
+ where npm
+
+
+
+
+
+- GIT
+---------------
+
+- changelist vs shelf
+- cherry pick
+- ammend commit
+- reword
+- tag/push tags
+- branch
+- rebase
+- anotatation /  selected history
+- revert/ jak se zbavit merge
+  -  revert single file  - git checkout filename
+- jak zjistit v kterych je to branchich
+- filter/hledani
+- merge,pull request
+
